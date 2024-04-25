@@ -19,12 +19,3 @@ MovieVerse is a movie-searching and review-viewing website where users can searc
 2. Install dependencies by running `npm install`.
 3. Start the development server with `npm start`.
 4. Open the project in your web browser at `http://localhost:3000`.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-[Your Name]
-
-## Contact
-For any inquiries or feedback, feel free to contact me at [Your Email] or visit my [GitHub Profile](https://github.com/[Your GitHub Username]).
